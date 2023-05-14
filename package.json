@@ -1,0 +1,34 @@
+{
+  "name": "chat-rooms",
+  "version": "1.0.0",
+  "description": "Realtime chatapp with rooms for geeks to practice node, express and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarwanRadwan7/Chat-Rooms.git"
+  },
+  "keywords": [
+    "express",
+    "socketio",
+    "node",
+    "vanillajs"
+  ],
+  "author": "Marwan Radwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarwanRadwan7/Chat-Rooms/issues"
+  },
+  "homepage": "https://github.com/MarwanRadwan7/Chat-Rooms#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
