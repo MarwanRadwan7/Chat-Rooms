@@ -12,4 +12,4 @@ npm install
 npm run start
 ```
 
-Navigate to: [localhost](localhost:3000)
+Navigate to: [localhost](http://127.0.0.1:3000)
